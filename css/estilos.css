@@ -4,9 +4,21 @@ body{
     font-family: "Courier";
     font-size: 16px;
 }
+#cabecera{
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 0.5;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
